@@ -8,7 +8,7 @@ function Home() {
     <div className="p-6">
       <Section title="About Me">
         <p className="text-gray-700">
-          Hello! I’m John Doe, a passionate software developer with expertise in building responsive web applications using React, JavaScript, and CSS. I love solving complex problems and continuously improving my skills in the latest technologies.
+          Hello! I’m Jaya Negara, a passionate software developer with expertise in building responsive web applications using React, JavaScript, and CSS. I love solving complex problems and continuously improving my skills in the latest technologies.
         </p>
       </Section>
 

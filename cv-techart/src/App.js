@@ -1,11 +1,10 @@
 import logo from './logo.svg';
-import './App.css';
+import './styles/output.css';
 import Header from './components/Header';
 import Footer from './components/Footer';
 import ListItem from './components/listitem';
 import Section from './components/section';
 import Home from './pages/Home';
-
 // function App() {
 //   return (
 //     <div className="App">
